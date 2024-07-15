@@ -1,6 +1,6 @@
 # Hackintosh USB Installer
 
-![Hackintosh USB Installer](https://www.apple.com/th/macos/sonoma/images/overview/pdf-notes/notes_pages__d0uk6tfwlp4y_medium.jpg)
+![Hackintosh USB Installer](https://www.apple.com/newsroom/images/product/os/macos/standard/Apple_macOS-Monterey_Safari-Tab-Groups_10252021_big.jpg.medium.jpg)
 
 ## Overview
 
