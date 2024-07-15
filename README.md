@@ -14,7 +14,7 @@ This application helps you create a Hackintosh USB installer by downloading macO
 
 ## Screenshots
 
-![Select macOS Version](images/select_version.png)
+![Select macOS Version](hackintosh2.png)
 
 ![Download Progress](images/download_progress.png)
 
