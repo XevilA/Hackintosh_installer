@@ -29,5 +29,5 @@ This application helps you create a Hackintosh USB installer by downloading macO
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/XevilA/hackintosh-usb-installer.git
+   git clone [https://github.com/XevilA/hackintosh-usb-installer.git]
    cd hackintosh-usb-installer
